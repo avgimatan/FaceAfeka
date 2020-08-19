@@ -6,7 +6,7 @@ FaceAfeka is a project of social network based on Facebook and a game that membe
 Server: NodeJS, Apache and PHP.
 Client: HTML, CSS, JS, React framework. 
 The social network is built on Apache, written in PHP and JS, CSS, HTML.
-The memory game is built On NodeJS in JS React freamwork and HTML.
+The memory game is built On NodeJS in JS React framework and HTML.
 Our database is SQL in MariaDB.
 
 ## Installation ##
